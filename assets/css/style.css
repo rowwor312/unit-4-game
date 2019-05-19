@@ -1,0 +1,41 @@
+body {
+        
+    background: url("https://tse4.mm.bing.net/th?id=OIP.pKd5V1pJv-fdumRsinAUsAHaD4&pid=Api&P=0&w=323&h=170");
+}
+
+
+h1 {
+    /* background-color: gray; */
+    text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+}
+
+h1, h2 {
+    font-family: Verdana, 'Times New Roman', Times, serif
+}
+
+h2 {
+    color: black;
+    font-size: 25px;
+        text-align: center;
+}
+
+h3 {
+    color:  black;
+    /* background-color: gray; */
+    font-size: 16px;
+    font-weight: bold
+}
+
+img {    
+    width: 510px;
+    height: 200px;
+    /* width: auto; */
+    /* height: auto; */
+    }
+    
+    
+   
+
+ 
